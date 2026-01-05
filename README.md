@@ -5,12 +5,6 @@ This repository contains the imported and organized source code, which was not o
 
 ---
 
-## Description
-
-AniCritique follows a traditional MVC-style architecture using server-side rendering with Handlebars. The application handles user interactions, data storage, and page rendering through a Node.js and Express.js backend connected to a MongoDB database.
-
----
-
 ## Installation & Setup
 
 ### Prerequisites
@@ -83,5 +77,3 @@ A sample configuration is provided in `.env.example`.
 * MongoDB
 
 ---
-
-Just say the word 👍
