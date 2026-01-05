@@ -38,10 +38,20 @@ npm install
 
 ### Running the Application
 
+1. Download ZIP/RAR.
+2. Extract to a folder.
+3. Open MongoDB Compass
+4. Connect to this link:
+   ```
+   mongodb://127.0.0.1:27017/anicritique
+   ```
+5. Import all files within the anicritique folder to the database:
+6. Open CMD or Terminal inside the folder.
+
 Start the server using:
 
 ```bash
-node app.js
+node index.js
 ```
 
 Once running, open your browser and navigate to:
