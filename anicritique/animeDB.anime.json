@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "656ed858ad4f37139a9bb1b1"
+  },
+  "jp_title": "Spongebob Squarepants",
+  "en_title": "Spongebob Squarepants",
+  "synopsis": "SpongeBob SquarePants (often referred to simply as SpongeBob) is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. It chronicles the adventures of the title character and his aquatic friends in the underwater city of Bikini Bottom. Nickelodeon aired a preview for the series in the United States on May 1, 1999, after the airing of the 1999 Kids' Choice Awards. The series officially premiered on July 17, 1999. It gained popularity by its second season and has received worldwide critical acclaim. As of 2019, the series was the fifth-longest-running American animated series. Its popularity made it a media franchise, the highest rated Nickelodeon series, and the most profitable property for Paramount Consumer Products. By 2019, it had generated over $13 billion in merchandising revenue.",
+  "studio": "Nickelodeon",
+  "type": "Anime",
+  "genre": "Dark, Fantasy, Romance",
+  "premiere": "Spring 1999",
+  "episode_count": "296",
+  "rating": "G",
+  "ave_score": 9.5,
+  "image": "https://th.bing.com/th/id/OIP.73PrMhPkjVQQBmar5H8pfAHaK4?rs=1&pid=ImgDetMain",
+  "summ": "Peak Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f0117a638380ee0e9aa28"
+  },
+  "jp_title": "Botchi Za Rokku!",
+  "en_title": "Bocchi The Rock!",
+  "synopsis": "Yearning to make friends and perform live with a band, lonely and socially anxious Hitori \"Bocchi\" Gotou devotes her time to playing the guitar. On a fateful day, Bocchi meets the outgoing drummer Nijika Ijichi, who invites her to join Kessoku Band when their guitarist, Ikuyo Kita, flees before their first show. Soon after, Bocchi meets her final bandmate—the cool bassist Ryou Yamada.\r\n\r\nAlthough their first performance together is subpar, the girls feel empowered by their shared love for music, and they are soon rejoined by Kita. Finding happiness in performing, Bocchi and her bandmates put their hearts into improving as musicians while making the most of their fleeting high school days.",
+  "studio": "Cloverworks",
+  "type": "Anime",
+  "genre": "High School, Comedy",
+  "premiere": "Fall 2022",
+  "episode_count": "12",
+  "rating": "PG-13",
+  "image": "https://pics.filmaffinity.com/Bocchi_the_Rock_TV_Series-275830704-large.jpg",
+  "summ": "Depressed loner learns the power of friendship",
+  "__v": 0,
+  "ave_score": 9
+},
+{
+  "_id": {
+    "$oid": "656f0213a638380ee0e9aa2c"
+  },
+  "jp_title": "Sousou no Frieren",
+  "en_title": "Frieren: Beyond Journey's End",
+  "synopsis": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.\r\n\r\nHowever, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted over a thousand years. When the party disbands after their victory, Frieren casually returns to her \"usual\" routine of collecting spells across the continent. Due to her different sense of time, she seemingly holds no strong feelings toward the experiences she went through.\r\n\r\nAs the years pass, Frieren gradually realizes how her days in the hero's party truly impacted her. Witnessing the deaths of two of her former companions, Frieren begins to regret having taken their presence for granted; she vows to better understand humans and create real personal connections. Although the story of that once memorable journey has long ended, a new tale is about to begin.\r\n\r\n[Written by MAL Rewrite]",
+  "studio": "Madhouse",
+  "type": "Anime",
+  "genre": "Adventure, Drama, Fantasy",
+  "premiere": "Fall 2023",
+  "episode_count": "28",
+  "rating": "PG-13",
+  "image": "https://static.zerochan.net/Sousou.no.Frieren.full.4004264.jpg",
+  "summ": "Immortal elf learns to live life to the fullest",
+  "__v": 0,
+  "ave_score": 8.666666666666666
+},
+{
+  "_id": {
+    "$oid": "656f02eca638380ee0e9aa2f"
+  },
+  "jp_title": "Kagurabachi",
+  "en_title": "Kagurabachi",
+  "synopsis": "Kagurabachi is a young and talented samurai who serves the Shogun with loyalty and honor. He is known for his skill with the sword and his ability to manipulate the wind. However, he has a dark secret that he hides from everyone: he is a descendant of the legendary demon lord, Onimaru. Kagurabachi’s bloodline gives him immense power, but also a curse that slowly corrupts his soul. He must constantly fight against his inner darkness, or risk losing himself to the evil within.\r\n\r\nOne day, Kagurabachi is assigned to a mission that will change his fate. He is ordered to escort a mysterious princess to a hidden temple, where she will perform a ritual that could save the world from a looming threat. Along the way, he encounters enemies and allies, both human and supernatural. He also learns more about the princess and her connection to his past. As he gets closer to the temple, he faces a difficult choice: to fulfill his duty as a samurai, or to follow his heart as a man. What will he choose? And what will be the consequences of his decision?",
+  "studio": "MAPPA",
+  "type": "Anime",
+  "genre": "Dark, Action, High School",
+  "premiere": "Spring 2023",
+  "episode_count": "1075",
+  "rating": "R-18",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHmZZTA4fjf7oPG57sHs8Pdv9LqJdxXsvUorHQWeopoXaGcarMrkj86K7IBxfvUG0ATGFWi9DAxp-a_aJZFKpLAMiZkWMq3rISVRAwtEUR6UjwsQ8DZsQNmwgkZDBSbm9WlEPLWtIthY3Vb8WExdbgvHPgJlunVpgDsMZ7jQTGEguPDBVbxBv0GPLat8R/s1466/Kagura%20Bachi%202.jpg",
+  "summ": "Mr Kagurabachi journey to avenge his father from the anit-kagurabachis",
+  "__v": 0,
+  "ave_score": 6
+},
+{
+  "_id": {
+    "$oid": "656f03c2a638380ee0e9aa4a"
+  },
+  "jp_title": "Yosuga no Sora",
+  "en_title": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+  "synopsis": "Due to a sudden accident, twins Haruka and Sora Kasugano have lost both of their parents. Starting their lives anew, they return to their childhood home—living once again in the rural, quaint town like they did four years ago.\r\n\r\nHowever, revisiting such a nostalgic place also means recalling all the memories the two of them made together, be it those that gave them blissful joy or those that made them suffer painful sorrow. Meeting both old acquaintances and new companions alike, the story of Haruka and Sora only gets more convoluted as their lives are slowly influenced by different acts of love, friendship, envy—and perhaps even lust.\r\n\r\n[Written by MAL Rewrite]",
+  "studio": "feel.",
+  "type": "Anime",
+  "genre": "Drama, Romance, Action",
+  "premiere": "Fall 2010",
+  "episode_count": "12",
+  "rating": "R-18",
+  "image": "https://kawaiifu.com/wp-content/uploads/2019/02/Yosuga-no-Sora-anime-uncensored-online.jpg",
+  "summ": "I am morally obligated to not offer a summary",
+  "__v": 0,
+  "ave_score": 1
+}]

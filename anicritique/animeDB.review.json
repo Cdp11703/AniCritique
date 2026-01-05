@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "656ef0f30a479aafb68e68e2"
+  },
+  "user": {
+    "$oid": "656ed6a4ad4f37139a9bb1a5"
+  },
+  "anime": {
+    "$oid": "656ed858ad4f37139a9bb1b1"
+  },
+  "content": "i love spongeboob",
+  "score": 9,
+  "date": "Dec 05, 2023 (edited)",
+  "title": "PEAK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f0dc5682035e0fb4c05b5"
+  },
+  "user": {
+    "$oid": "656ed6a4ad4f37139a9bb1a5"
+  },
+  "anime": {
+    "$oid": "656ed858ad4f37139a9bb1b1"
+  },
+  "content": "Actually Good nvm",
+  "score": 10,
+  "date": "Dec 05, 2023 (edited)",
+  "title": "It's not that good",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f36c33ef7df844a33137f"
+  },
+  "user": {
+    "$oid": "656f36933ef7df844a33136e"
+  },
+  "anime": {
+    "$oid": "656f0213a638380ee0e9aa2c"
+  },
+  "content": "I wish more shows are more like this, high quality with no needless fanservice",
+  "score": 10,
+  "date": "Dec 05, 2023",
+  "title": "Stellar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f36e63ef7df844a331392"
+  },
+  "user": {
+    "$oid": "656f36933ef7df844a33136e"
+  },
+  "anime": {
+    "$oid": "656f0117a638380ee0e9aa28"
+  },
+  "content": "Might be the next K-on! but I'm not qualified to know",
+  "score": 9,
+  "date": "Dec 05, 2023",
+  "title": "Good Show",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f37f03ef7df844a3313c7"
+  },
+  "user": {
+    "$oid": "656f371f3ef7df844a3313aa"
+  },
+  "anime": {
+    "$oid": "656f0213a638380ee0e9aa2c"
+  },
+  "content": "@JohnJoke don't even try to pretend that you watched the show, frieren literally got her clothes DISSOLVED in one of the episodes stop playing with me",
+  "score": 9,
+  "date": "Dec 05, 2023",
+  "title": "OK BRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f38203ef7df844a3313da"
+  },
+  "user": {
+    "$oid": "656f371f3ef7df844a3313aa"
+  },
+  "anime": {
+    "$oid": "656f02eca638380ee0e9aa2f"
+  },
+  "content": "it looks like shonen jump is finally getting desperate if this is the best they can come up with",
+  "score": 6,
+  "date": "Dec 05, 2023",
+  "title": "Overrated",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f387f3ef7df844a331401"
+  },
+  "user": {
+    "$oid": "656f38423ef7df844a3313eb"
+  },
+  "anime": {
+    "$oid": "656f0213a638380ee0e9aa2c"
+  },
+  "content": "@ManMan a-are you srsly gatekeeping frieren bro? calm down its not that big of a deal",
+  "score": 7,
+  "date": "Dec 05, 2023",
+  "title": "uhhh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f38a23ef7df844a331414"
+  },
+  "user": {
+    "$oid": "656f38423ef7df844a3313eb"
+  },
+  "anime": {
+    "$oid": "656f03c2a638380ee0e9aa4a"
+  },
+  "content": "No Review. I Refuse.",
+  "score": 1,
+  "date": "Dec 05, 2023",
+  "title": "Ghostbusters 2016",
+  "__v": 0
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "656ed6a4ad4f37139a9bb1a5"
+  },
+  "username": "Rubio",
+  "email": "man@gmail.com",
+  "password": "$2b$10$bfTH0t9evDIibvoOC5.Qv.QftKo9RyqeUz2k5LR1N/7RrhQydoNJW",
+  "join_date": "Dec 05, 2023",
+  "bio": "Shadow Wizard Money",
+  "picture_url": "https://images6.fanpop.com/image/photos/43100000/Guts-berserk-the-anime-manga-43133551-1200-1158.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ef1bf7056c355304d3696"
+  },
+  "username": "placeholder",
+  "email": "placeholder@gmail.com",
+  "password": "$2b$10$6.XqbdnNVeIgu5GR8PGyq.DChP9h9CYfwSunOorJ6Jyre1xI2ljm2",
+  "join_date": "Dec 05, 2023",
+  "bio": "Placeholder biography. Don't read it won't matter",
+  "picture_url": "https://www.firstbenefits.org/wp-content/uploads/2017/10/placeholder.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f36933ef7df844a33136e"
+  },
+  "username": "JohnJoke",
+  "email": "John@gmail.com",
+  "password": "$2b$10$aIjF5k16MB6aUicTJheQROguvgIWPI9lYF0LdxTrQuQnCFTAoamjW",
+  "join_date": "Dec 05, 2023",
+  "bio": "I'm the jokester",
+  "picture_url": "https://i.pinimg.com/736x/c0/27/be/c027bec07c2dc08b9df60921dfd539bd.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f371f3ef7df844a3313aa"
+  },
+  "username": "ManMan",
+  "email": "man@gmail.com",
+  "password": "$2b$10$s9ZjfZhR2VpYmAKfGDUAwegY/rPw1DVM06nfO5BYks9DFBOAGEgJ6",
+  "join_date": "Dec 05, 2023",
+  "bio": "I'm THE man of men",
+  "picture_url": "https://i0.wp.com/i.imgflip.com/4v06ld.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f38423ef7df844a3313eb"
+  },
+  "username": "a",
+  "email": "a@gmail.com",
+  "password": "$2b$10$WVp0COycFgHdEDoxL64dq.ZKKIVD/B53OjKdRY7teln4uWw7BcgWS",
+  "join_date": "Dec 05, 2023",
+  "bio": "a",
+  "picture_url": "https://pixy.org/src/9/thumbs350/97866.jpg",
+  "__v": 0
+}]
