@@ -1,21 +1,87 @@
 # AniCritique
-This was imported and co-developed back in 2023 however not in github repository. A full-stack anime review site titled using HTML/HBS, CSS, JavaScript, Node.js, Express.js, and MongoDB.
+
+**AniCritique** is a full-stack anime review web application originally developed and co-built in 2023. The project allows users to explore, review, and critique anime titles through a dynamic and interactive interface. It is built using **HTML / Handlebars (HBS)**, **CSS**, **JavaScript**, **Node.js**, **Express.js**, and **MongoDB**.
+This repository contains the imported and organized source code, which was not originally hosted on GitHub.
+
+---
 
 ## Description
 
-This project uses several dependencies to function properly. To install these, you need to have Node.js and npm installed on your machine. If you don't have these installed, you can download them from Node.js official website. 
+AniCritique follows a traditional MVC-style architecture using server-side rendering with Handlebars. The application handles user interactions, data storage, and page rendering through a Node.js and Express.js backend connected to a MongoDB database.
 
-For the initial project installation, navigate to the project directory in your terminal and run either:
+---
+
+## Installation & Setup
+
+### Prerequisites
+
+Make sure the following are installed on your system:
+
+* **Node.js**
+* **npm (Node Package Manager)**
+
+You can download them from the official Node.js website.
+
+---
+
+### Project Setup
+
+1. Clone the repository and navigate to the project directory:
+
+```bash
+cd anicritique
+```
+
+2. Install the required dependencies:
+
 ```bash
 npm install
 ```
-or
 
-```bash
-npm init
-```
+> ⚠️ **Note:** Running `npm init` is not required for setup, as the project already includes a `package.json` file.
 
-Afterwards, run the following command:
+---
+
+### Running the Application
+
+Start the server using:
+
 ```bash
 node app.js
 ```
+
+Once running, open your browser and navigate to:
+
+```
+http://localhost:3000
+```
+
+*(or the port specified in your `.env` file)*
+
+---
+
+## Environment Variables
+
+Create a `.env` file in the root directory and configure the following variables:
+
+```env
+SERVER_PORT=3000
+MONGODB_URI=your_mongodb_connection_string
+```
+
+A sample configuration is provided in `.env.example`.
+
+---
+
+## Technologies Used
+
+* HTML / Handlebars (HBS)
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+
+---
+
+Just say the word 👍
